@@ -25,7 +25,8 @@ sdk install java 25.0.1.0+8-open
 
 **Evidencia**
 
-![Evidencia - Terminal - Instalación de Java](img/01-sdkman-java.jpeg)
+<img width="872" height="307" alt="01-sdkman-java" src="https://github.com/user-attachments/assets/2c532942-2604-4a45-bfb7-b82bdee5febc" />
+
 
 ### Instalación de sbt
 
@@ -36,7 +37,8 @@ sdk install sbt 2.0.10
 
 **Evidencia**
 
-![Evidencia - Terminal - Instalación de sbt](img/02-sdkman-sbt.jpeg)
+<img width="872" height="73" alt="02-sdkman-sbt" src="https://github.com/user-attachments/assets/e681592d-0666-438b-a439-5901fcb703ef" />
+
 
 ### Instalación de Scala CLI
 
@@ -47,7 +49,8 @@ sdk install scalacli 1.18.0
 
 **Evidencia**
 
-![Evidencia - Terminal - Instalación de Scala CLI](img/03-sdkman-scalacli.jpeg)
+<img width="877" height="237" alt="03-sdkman-scalacli" src="https://github.com/user-attachments/assets/05ee754e-3adb-40e2-a96d-6aaeddb56ef7" />
+
 
 ---
 
@@ -76,7 +79,7 @@ nums.stream().reduce(1, (n1, n2) -> n1 * n2)
 
 **Evidencia - Terminal - Java**
 
-![Evidencia - Terminal - Java](img/05-terminal-java-jshell.jpeg)
+<img width="677" height="247" alt="05-terminal-java-jshell" src="https://github.com/user-attachments/assets/644e9978-4f8f-4f4b-b91e-620eeee5ceac" />
 
 ### Scala (scala)
 
@@ -94,7 +97,8 @@ nums.reduce((n1, n2) => n1 * n2)
 
 **Evidencia - Terminal - Scala**
 
-![Evidencia - Terminal - Scala](img/06-terminal-scala.jpeg)
+<img width="550" height="207" alt="06-terminal-scala" src="https://github.com/user-attachments/assets/92c27473-3db8-4732-9121-04a69fce8a7f" />
+
 
 ### Python (ipython)
 
@@ -113,7 +117,8 @@ reduce(lambda x, y : x * y, lst, 1)
 
 **Evidencia - Terminal - Python**
 
-![Evidencia - Terminal - Python](img/04-terminal-python-ipython.jpeg)
+<img width="505" height="212" alt="04-terminal-python-ipython" src="https://github.com/user-attachments/assets/39018205-9e4a-4795-8378-a03285f46761" />
+
 
 ### Descripción general de los tres códigos
 
@@ -164,11 +169,13 @@ def getAvarage(nums: List[Int]): Double = {
 
 Definición de la función:
 
-![Evidencia - Terminal - Scala - Estilo imperativo (definición)](img/08-scala-imperativa-definicion.jpeg)
+<img width="481" height="200" alt="08-scala-imperativa-definicion" src="https://github.com/user-attachments/assets/b57eb2e2-85a5-4db5-8bee-36eb2153b870" />
+
 
 Llamada a la función:
 
-![Evidencia - Terminal - Scala - Estilo imperativo (llamada)](img/07-scala-imperativa-llamada.jpeg)
+<img width="418" height="127" alt="07-scala-imperativa-llamada" src="https://github.com/user-attachments/assets/d74adc04-9eae-4b5a-9724-e4daa82171c6" />
+
 
 #### Scala - Estilo funcional
 
@@ -184,11 +191,11 @@ def getAvarageFun(nums: List[Int]): Double = {
 
 Declaración de la lista:
 
-![Evidencia - Terminal - Scala - Estilo funcional (lista)](img/09-scala-funcional-lista.jpeg)
+<img width="340" height="67" alt="09-scala-funcional-lista" src="https://github.com/user-attachments/assets/dabe3e25-53aa-4c8a-8900-74521b08fd4f" />
 
 Definición y llamada a la función:
 
-![Evidencia - Terminal - Scala - Estilo funcional (definición y llamada)](img/10-scala-funcional-llamada.jpeg)
+<img width="462" height="147" alt="10-scala-funcional-llamada" src="https://github.com/user-attachments/assets/fb41f922-72df-4aa9-8dce-2f2b4cddfc92" />
 
 #### Scala 3
 
@@ -204,9 +211,10 @@ def get_average(nums: list[int]) -> float:
 
 **Evidencia - Terminal - Python**
 
-![Evidencia - Terminal - Python (definición)](img/11-python-definicion.png)
+<img width="605" height="143" alt="11-python-definicion" src="https://github.com/user-attachments/assets/414f4756-c400-4f9c-90e9-f4df891eec0c" />
 
-![Evidencia - Terminal - Python (llamada)](img/12-python-llamada.png)
+<img width="265" height="62" alt="12-python-llamada" src="https://github.com/user-attachments/assets/c46daf83-8fb8-4a48-9a19-10b717d8415f" />
+
 
 #### Haskell
 
@@ -218,7 +226,7 @@ getAverage nums = fromIntegral (sum nums) / fromIntegral (length nums)
 
 **Evidencia - Terminal - Haskell**
 
-*(Insertar aquí la captura de comprobación de la terminal de Haskell)*
+
 
 ---
 
