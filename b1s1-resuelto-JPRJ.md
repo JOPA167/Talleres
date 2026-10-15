@@ -197,6 +197,16 @@ Definición y llamada a la función:
 
 <img width="462" height="147" alt="10-scala-funcional-llamada" src="https://github.com/user-attachments/assets/fb41f922-72df-4aa9-8dce-2f2b4cddfc92" />
 
+---
+
+## Actividad N4
+
+Pídale a ChatGPT que transforme el código anterior, escrito de forma imperativa, a una versión en donde se utilice el paradigma de programación funcional, para los lenguajes de programación: Haskell, Python y Scala 3. Le sugiero incluir en el prompt el código Java anterior. Implemente el código que obtuvo utilizando la herramienta **Scala CLI**. A través del comando:
+
+```shell
+scala-cli repl
+```
+
 #### Scala 3
 
 La versión en Scala 3 corresponde a la solución desarrollada en el apartado anterior, [Scala - Estilo imperativo](#scala---estilo-imperativo) y [Scala - Estilo funcional](#scala---estilo-funcional).
